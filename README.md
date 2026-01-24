@@ -50,7 +50,7 @@
 
 <div align="center">
   <a href="https://github.com/khabsarali">
-   
+    <img src="https://img.shields.io/github/followers/khabsarali?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge">
   </a>
   
   <br><br>
