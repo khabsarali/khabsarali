@@ -189,9 +189,7 @@ I'm a **Web Developer & Software Engineer** from Pakistan who blends clean engin
 </div>
 
 <br>
-
 <img src="./assets/divider.svg" width="100%" />
-
 <br>
 
 <div align="center">
