@@ -36,12 +36,6 @@
   />
 </div>
 
-<br>
-
-<img src="./assets/divider.svg" width="100%" />
-
-<br>
-
 ## 🧑‍💻 &nbsp; About Me
 
 > *"I am on a mission to become a Software Engineer — building meaningful digital products, one clean commit at a time."*
@@ -59,11 +53,6 @@ I'm a **Web Developer & Software Engineer** from Pakistan who blends clean engin
 | 📬 &nbsp; **Email** | [khabsarali@gmail.com](mailto:khabsarali@gmail.com) |
 | 🌍 &nbsp; **Based in** | Pakistan 🇵🇰 |
 
-<br>
-
-<img src="./assets/divider.svg" width="100%" />
-
-<br>
 
 ## 🚀 &nbsp; My Journey to Become a Software Engineer
 
@@ -77,11 +66,6 @@ I'm a **Web Developer & Software Engineer** from Pakistan who blends clean engin
 🌟  Next milestone: ship products used by thousands — the journey never stops
 ```
 
-<br>
-
-<img src="./assets/divider.svg" width="100%" />
-
-<br>
 
 ## 🛠 &nbsp; Tech Stack
 
@@ -149,11 +133,6 @@ I'm a **Web Developer & Software Engineer** from Pakistan who blends clean engin
   />
 </div>
 
-<br>
-
-<img src="./assets/divider.svg" width="100%" />
-
-<br>
 
 ## 🏆 &nbsp; Achievements
 
@@ -164,11 +143,6 @@ I'm a **Web Developer & Software Engineer** from Pakistan who blends clean engin
   />
 </div>
 
-<br>
-
-<img src="./assets/divider.svg" width="100%" />
-
-<br>
 
 ## 🤝 &nbsp; Connect With Me
 
@@ -188,9 +162,6 @@ I'm a **Web Developer & Software Engineer** from Pakistan who blends clean engin
 
 </div>
 
-<br>
-<img src="./assets/divider.svg" width="100%" />
-<br>
 
 <div align="center">
   <sub>⭐ &nbsp; If you find my work useful, a star goes a long way — thank you!</sub>
