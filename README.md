@@ -137,17 +137,6 @@
 
 <br/>
 
-## 🏆 &nbsp;Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=khabsarali&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a3a6e,0a1628&height=2&section=header" width="100%"/>
-
-<br/>
 
 ## 🤝 &nbsp;Connect With Me
 
