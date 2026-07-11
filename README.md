@@ -152,6 +152,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,1a3a6e,0a1628&height=130&section=footer&text=Khawaja%20Absar%20Ali&fontSize=22&fontColor=f0f6ff&fontAlignY=60&desc=Software%20Engineer%20%C2%B7%20Web%20Developer%20%C2%B7%20Designer%20%C2%B7%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descSize=13&descColor=6e7f96&descAlignY=80" width="100%" alt="Footer"/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassanmir-738/hassanmir-738/main/github-user-contribution.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassanmir-738/hassanmir-738/main/github-user-contribution.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hassanmir-738/hassanmir-738/main/github-user-contribution.svg" width="90%"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:0a3d62,100:0d1b2a&height=120&section=footer" width="100%"/>
+</div>
+
 <div align="center">
   <sub>⭐ If you find my work useful, a star goes a long way — thank you!</sub>
 </div>
