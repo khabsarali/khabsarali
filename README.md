@@ -1,170 +1,173 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,1a3a6e,0a1628&height=230&section=header&text=Khawaja%20Absar%20Ali&fontSize=54&fontColor=f0f6ff&fontAlignY=42&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Web%20Developer%20%C2%B7%20UI%2FUX%20Designer&descSize=18&descColor=8ab4f8&descAlignY=60&fontAlign=50" width="100%" alt="Header"/>
+# Hi, I'm Absar Ali 👋
 
-<div align="center">
+### Software Engineering Student & Developer
 
-<br/>
+I'm a Software Engineering student focused on building practical software, modern web applications, and AI-powered products.
 
-![](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-1a3a6e?style=flat-square&labelColor=0d1117&color=1a3a6e)&nbsp;
-![](https://img.shields.io/badge/%E2%9A%A1%20Web%20Development-1a3a6e?style=flat-square&labelColor=0d1117&color=1a3a6e)&nbsp;
-![](https://img.shields.io/badge/%F0%9F%8E%AF%20Becoming%20a%20Software%20Engineer-1a3a6e?style=flat-square&labelColor=0d1117&color=1a3a6e)&nbsp;
-![](https://img.shields.io/badge/%F0%9F%8C%B1%20Advanced%20WordPress%20%26%20AI-1a3a6e?style=flat-square&labelColor=0d1117&color=1a3a6e)
+I enjoy turning ideas into functional, clean, and scalable digital experiences — from websites and web applications to SaaS MVPs and mobile applications.
 
-<br/><br/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2000&color=8AB4F8&center=true&vCenter=true&width=560&lines=Building+the+Web%2C+One+Line+at+a+Time+%F0%9F%9A%80;WordPress+%C2%B7+PHP+%C2%B7+JavaScript+%C2%B7+Python;Turning+Ideas+into+Digital+Products+%F0%9F%92%A1;From+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+to+the+World+%F0%9F%8C%8D;On+a+Mission+to+Become+a+Software+Engineer+%F0%9F%8E%AF" alt="Typing SVG" />
+## 👨‍💻 About Me
 
-</div>
+* 🎓 BS Software Engineering student at **University of Azad Jammu & Kashmir**
+* 💻 Focused on **Software Engineering, Web Development & Problem Solving**
+* 🌐 Experienced in building websites and web applications for local and international clients
+* ⚡ Currently strengthening my foundation in **C++, Data Structures & Algorithms**
+* 🤖 Exploring **Machine Learning and AI-powered applications**
+* 📱 Learning and building with **React Native / Expo**
+* 🛠️ Building projects with modern development tools and AI-assisted workflows
+* 🌍 Interested in remote software development and freelance opportunities
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a3a6e,0a1628&height=2&section=header" width="100%"/>
+---
 
-<br/>
+## 🧰 Tech Stack
 
-## 🧑‍💻 &nbsp;About Me
+### Languages
 
-> *"I am on a mission to become a Software Engineer — building meaningful digital products, one clean commit at a time."*
+`C++` `JavaScript` `TypeScript` `HTML` `CSS` `SQL`
 
-<br/>
+### Frontend
 
-<table>
-  <tr>
-    <td>🔭&nbsp; <b>Currently</b></td>
-    <td>Building conversion-optimised web solutions</td>
-    <td>🌱&nbsp; <b>Learning</b></td>
-    <td>Advanced WordPress · AI Integration · SEO</td>
-  </tr>
-  <tr>
-    <td>🤝&nbsp; <b>Looking For</b></td>
-    <td>Open-source &amp; freelance collaboration</td>
-    <td>💬&nbsp; <b>Ask Me About</b></td>
-    <td>WordPress · PHP · Elementor · Front-End</td>
-  </tr>
-  <tr>
-    <td>📬&nbsp; <b>Email</b></td>
-    <td><a href="mailto:khabsarali@gmail.com">khabsarali@gmail.com</a></td>
-    <td>🌍&nbsp; <b>Based In</b></td>
-    <td>Pakistan 🇵🇰</td>
-  </tr>
-</table>
+`React` `Next.js` `Tailwind CSS`
 
-<br/>
+### Backend & Database
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a3a6e,0a1628&height=2&section=header" width="100%"/>
+`Node.js` `Express.js` `Supabase` `PostgreSQL`
 
-<br/>
+### CMS & E-Commerce
 
-## 🚀 &nbsp;My Journey to Become a Software Engineer
+`WordPress` `Elementor` `Shopify` `WooCommerce`
 
-🎓 &nbsp;Started with **HTML, CSS & the fundamentals** — felt the joy of seeing a webpage come alive for the first time
+### Mobile
 
-💡 &nbsp;Discovered a **passion for solving real problems** through code — logic became a creative tool
+`React Native` `Expo`
 
-🛠️ &nbsp;**Built projects, broke things, fixed them** — grew stronger and sharper with every bug and deploy
+### Tools & Platforms
 
-🌐 &nbsp;Expanded into **full-stack web development** — PHP, JavaScript, WordPress, Python — building real client solutions
+`Git` `GitHub` `VS Code` `Vercel` `Figma`
 
-🎨 &nbsp;Added **UI/UX & graphic design** to the toolkit — bridging the gap between engineering and human experience
+### AI Development
 
-📈 &nbsp;Now sharpening skills in **AI tooling, SEO systems & scalable web architecture** for professional-grade products
+`Claude Code` `Lovable` `Replit` `Base44`
 
-🌟 &nbsp;**Next milestone:** ship products used by thousands — the journey continues, always learning, always building
+---
 
-<br/>
+## 🚀 What I'm Working On
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a3a6e,0a1628&height=2&section=header" width="100%"/>
+I'm currently focused on becoming a stronger software engineer while building real-world projects.
 
-<br/>
+### Current Learning Path
 
-## 🛠 &nbsp;Tech Stack
+**C++ → Data Structures & Algorithms → Software Engineering → Machine Learning**
 
-**⚙️ &nbsp;Languages**
+Alongside my studies, I'm continuing to build:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+* 🌐 Modern web applications
+* 📱 Mobile applications
+* 🤖 AI-powered applications
+* ☁️ SaaS MVPs
+* 🧩 Database-driven systems
+* 🎨 Modern UI/UX experiences
 
-<br/>
+---
 
-**🌐 &nbsp;CMS & Platforms**
+## 💼 Development Experience
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)&nbsp;
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)&nbsp;
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+I've worked on a variety of projects involving:
 
-<br/>
+* Business websites
+* E-commerce platforms
+* SaaS products
+* Web applications
+* Client dashboards
+* Student/class management systems
+* AI-powered applications
+* Responsive frontend interfaces
+* API and database integrations
+* Deployment and production optimization
 
-**🎨 &nbsp;Design Tools**
+My approach is simple:
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)&nbsp;
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)&nbsp;
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+> **Understand the problem → Build the solution → Test it → Improve it → Ship it**
 
-<br/>
+---
 
-**🔧 &nbsp;Developer Tools**
+## 📌 Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+Some of the projects I've worked on include:
 
-<br/>
+### 🌐 Business & Client Websites
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a3a6e,0a1628&height=2&section=header" width="100%"/>
+* **AL SYEDI** — International trading and export website
+* **24Seven MSP** — Managed IT services website
+* **CTW / City Tire & Windshield** — Towing and roadside assistance platform
+* **TheCodeUp** — IT services and development company website
+* **Cortex Crew** — Software development and technology project
 
-<br/>
+### 🎓 Student Projects
 
-## 📊 &nbsp;GitHub Stats
+* **SE Nexus** — Class management and academic information platform
+* **OOP Airline Reservation System** — C++ based academic project
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=khabsarali&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8ab4f8&icon_color=8ab4f8&text_color=c9d1d9&rank_icon=github" height="175" alt="GitHub Stats"/>&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khabsarali&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8ab4f8&text_color=c9d1d9&langs_count=8" height="175" alt="Top Languages"/>
+## 📚 Currently Learning
 
-<br/><br/>
+```text
+C++
+ └── Data Structures & Algorithms
+      └── Problem Solving
+           └── Software Engineering
+                └── Machine Learning
+```
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=khabsarali&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8ab4f8&fire=8ab4f8&currStreakLabel=8ab4f8" width="62%" alt="GitHub Streak"/>
+I'm also improving my understanding of:
 
-<br/><br/>
+* Object-Oriented Programming
+* Algorithms & Data Structures
+* Databases
+* APIs
+* System design fundamentals
+* Git & GitHub workflows
+* Cloud deployment
+* Mobile development
+* AI-assisted software development
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khabsarali&theme=github-compact&hide_border=true&bg_color=0d1117&color=8ab4f8&line=1a3a6e&point=8ab4f8&area=true&area_color=1a3a6e" width="100%" alt="Activity Graph"/>
+---
 
-</div>
+## 🎯 Goals
 
-<br/>
+My long-term goal is to become a well-rounded software engineer capable of:
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a3a6e,0a1628&height=2&section=header" width="100%"/>
+* Building reliable software
+* Designing scalable applications
+* Solving complex technical problems
+* Working across frontend and backend systems
+* Developing intelligent applications with AI/ML
+* Contributing to meaningful open-source and real-world projects
 
-<br/>
+---
 
-## 🐍 Contribution Snake
+## 🤝 Let's Connect
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassanmir-738/hassanmir-738/main/github-user-contribution.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassanmir-738/hassanmir-738/main/github-user-contribution.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hassanmir-738/hassanmir-738/main/github-user-contribution.svg" width="90%"/>
-  </picture>
-</div>
+I'm always interested in:
 
-<br/>
+* Software development
+* Open-source projects
+* Freelance opportunities
+* Collaborations
+* Interesting technical ideas
+* Learning from other developers
 
+### 📫 Find Me
 
-## 🤝 &nbsp;Connect With Me
+**GitHub:** [github.com/yourusername](https://github.com/yourusername)
 
-<div align="center">
+**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
-[![Email](https://img.shields.io/badge/📧%20khabsarali%40gmail.com-1a3a6e?style=for-the-badge&labelColor=0d1117&color=1a3a6e)](mailto:khabsarali@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/🐙%20github.com%2Fkhabsarali-1a3a6e?style=for-the-badge&logo=github&logoColor=8ab4f8&labelColor=0d1117&color=1a3a6e)](https://github.com/khabsarali)&nbsp;
-[![Upwork](https://img.shields.io/badge/💼%20Upwork%20Profile-1a3a6e?style=for-the-badge&labelColor=0d1117&color=1a3a6e)](https://upwork.com)
+---
 
-</div>
+### 💡 Build. Learn. Improve.
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,1a3a6e,0a1628&height=130&section=footer&text=Khawaja%20Absar%20Ali&fontSize=22&fontColor=f0f6ff&fontAlignY=60&desc=Software%20Engineer%20%C2%B7%20Web%20Developer%20%C2%B7%20Designer%20%C2%B7%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descSize=13&descColor=6e7f96&descAlignY=80" width="100%" alt="Footer"/>
-
-
-<div align="center">
-  <sub>⭐ If you find my work useful, a star goes a long way — thank you!</sub>
-</div>
+> **Code with purpose. Build with curiosity. Keep improving.**
