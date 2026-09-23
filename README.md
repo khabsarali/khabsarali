@@ -1,4 +1,4 @@
-# Hi, I'm Absar Ali 👋
+# Hi, I'm Absar Ali 
 
 ### Software Engineering Student & Developer
 
