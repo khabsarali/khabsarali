@@ -160,12 +160,6 @@ I'm always interested in:
 * Interesting technical ideas
 * Learning from other developers
 
-### 📫 Find Me
-
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)
-
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
 ---
 
 ### 💡 Build. Learn. Improve.
