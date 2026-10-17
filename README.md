@@ -4,7 +4,7 @@
 
 I'm a Software Engineering student focused on building practical software, modern web applications, and AI-powered products.
 
-I enjoy turning ideas into functional, clean, and scalable digital experiences — from websites and web applications to SaaS MVPs and mobile applications.
+I enjoy turning ideas into functional, clean, and scalable digital experiences from websites and web applications to SaaS MVPs and mobile applications.
 
 ---
 
